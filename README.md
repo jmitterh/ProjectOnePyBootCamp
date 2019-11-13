@@ -1,4 +1,5 @@
 # ProjectOnePyBootCamp
 ## Team members:
-## Eliana Suarez 
-## Zoe Liu
+### Eliana Suarez 
+### Zoe Liu
+### Jean-Paul Mittehofer
