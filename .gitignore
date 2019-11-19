@@ -108,3 +108,6 @@ venv.bak/
 
 #config
 config.py
+
+#rawMasterData
+C:\DataAnalyticsBootCamp\WEEK_7\ProjectOnePyBootCamp\data\rawData\master_normalized_raw_dataframe_1.csv
