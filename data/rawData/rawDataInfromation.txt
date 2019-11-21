@@ -1,0 +1,4 @@
+ProjectOnePyBootCamp\data\rawDatamaster_normalized_raw_dataframe.csv
+ProjectOnePyBootCamp\data\rawDatamaster_geo_raw_dataframe.csv
+
+I had to gitignore these two files since they were over 100kb
