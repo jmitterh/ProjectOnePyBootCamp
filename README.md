@@ -1,6 +1,5 @@
 
-![](classResources\job_app_clip_art.png)
-
+![](https://myrealdomain.com/images/job-application-clip-art-5.png)
 
 # ProjectOnePyBootCamp
 
@@ -39,7 +38,7 @@ pip install random
 
 #### Repository description:
 1. classResources   (*Contains related material needed to complete the project assignment.*)
-2. data # Contains all data sources.
+2. data             (*Contains all data sources.*)
     * cleanData     (*Data that is ready for visualization. 1_master_clean_data is the data used analysis8*)
     * rawData       (*Data that is not formatted strait from the source*)
     * vizData       (*Visual output of the data*)
@@ -85,4 +84,4 @@ Each is optimized for different parts of the world and types of requests. This w
 Our main raw data set could not be pushed into github since the csv file was in excess of 200MB.
 Once the raw data was cleansed, its size was below 50MB, more than enough to meet GitHubs polices of file size.
 ## License
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
