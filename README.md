@@ -8,8 +8,8 @@ Team of three:
 * Zoe Liu
 * Jean-Paul Mittehofer
 
-In what part of the Unites States are job offers, specifically job posting, widespread in a particular area in a particular time? 
-To answer this a search was conducted for the appropiate source of data. Then determined what useful information the data should have:
+In what part of the Unites States are job offers, specifically job posting, widespread in a particular area, in a particular time? 
+To answer this a search was conducted for the appropriate source of data. Then determined what useful information the data should have:
 * Category
 * Time
 * Lat/Lng
@@ -22,7 +22,7 @@ With the source determined the data cleansing process was incorporated with the 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
 
 ```bash
 pip install jupyter notebook
