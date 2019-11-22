@@ -37,39 +37,39 @@ pip install random
 
 ## Folder And File Description
 
-```python
-# Repository description:
-1. classResources # Contains related material needed to complete the project assignment.
+#### Repository description:
+1. classResources   (*Contains related material needed to complete the project assignment.*)
 2. data # Contains all data sources.
-    a. cleanData # Data that is ready for visualization. 1_master_clean_data is the data used analysis
-    b. rawData # Data that is not formatted strait from the source
-    c. vizData # Visual output of the data
-3. notebooks # working not book for each team member
-4. reports # final notebook and presentation
+    * cleanData     (*Data that is ready for visualization. 1_master_clean_data is the data used analysis8*)
+    * rawData       (*Data that is not formatted strait from the source*)
+    * vizData       (*Visual output of the data*)
+3. notebooks        (*working not book for each team member*)
+4. reports          (*final notebook and presentation*)
 
 
-# The main files to execute, in ordered fashion, are in the below path:
-ProjectOnePyBootCamp\reports:
+#### The main files to execute, in ordered fashion, are in the below path:
+***ProjectOnePyBootCamp\reports:***
 
-1.Final_API.ipynb # key needed to connect to Azduna and Google Geocoding
-2.Final_Cleaning_Up_Data.ipynb
-3.Final_API_City_State.ipynb # key need to connect to OpenCage Geocoding
-4.Final_Visualization.ipynb
-5.Final_Gmaps.ipynb
+1. Final_API.ipynb (*Key needed to connect to Azduna and Google Geocoding*)
+2. Final_Cleaning_Up_Data.ipynb
+3. Final_API_City_State.ipynb (*Key need to connect to OpenCage Geocoding*)
+4. Final_Visualization.ipynb
+5. Final_Gmaps.ipynb
 
-# Output of the visualization and gmaps ipyb file are located in the following path:
-ProjectOnePyBootCamp\data\vizData
+#### Output of the visualization and gmaps ipyb file are located in the following path:
+***ProjectOnePyBootCamp\data\vizData***
 
-1_master_Graph_Top_5_Categories
-2_master_Graph_Top_5_Cities
-3_master_Graph_Top_5_State
-4_master_Graph_Top_City_Top_5_Category
-5_master_Graph_Top_State_Top_5_Category
-6_master_Plot_Category_Job_Postings_Month
-7_master_Plot_City_Job_Postings_Month
-8_master_Plot_State_Job_Postings_Month
-9_master_Plot_Total_Job_Postings_Month
-```
+* 1_master_Graph_Top_5_Categories
+* 2_master_Graph_Top_5_Cities
+* 3_master_Graph_Top_5_State
+* 4_master_Graph_Top_City_Top_5_Category
+* 5_master_Graph_Top_State_Top_5_Category
+* 6_master_Plot_Category_Job_Postings_Month
+* 7_master_Plot_City_Job_Postings_Month
+* 8_master_Plot_State_Job_Postings_Month
+* 9_master_Plot_Total_Job_Postings_Month
+
+
 ## Sources
 * [***Azduna***](https://developer.adzuna.com/)
  is a search engine for job advertisements. 
