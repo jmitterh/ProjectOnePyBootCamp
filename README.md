@@ -39,7 +39,7 @@ pip install random
 #### Repository description:
 1. classResources   (*Contains related material needed to complete the project assignment.*)
 2. data             (*Contains all data sources.*)
-    * cleanData     (*Data that is ready for visualization. 1_master_clean_data is the data used analysis8*)
+    * cleanData     (*Data that is ready for visualization. 1_master_clean_data is the data used in our analysis*)
     * rawData       (*Data that is not formatted strait from the source*)
     * vizData       (*Visual output of the data*)
 3. notebooks        (*working not book for each team member*)
